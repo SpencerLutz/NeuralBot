@@ -17,7 +17,7 @@ $password = 'REDACTED';
 $pmax = 0;//max number on photos
 $post = 0;//number of photo to be posted
 $num = 0;//number on photo
-$acc = ['juicybignut', 'threak'];//array of accounts to be used
+$acc = ['instagram', 'taylorswift'];//array of accounts to be used
 $max = [null, null];//array of maxIds for the accounts
 accn = [0, 0];//total number of posts from that account posted
 
